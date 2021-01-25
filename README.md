@@ -30,6 +30,7 @@ List of some technologies that I frequently use and work with.
     - [Python]
     - [TypeScript] : ProgrammingLanguage
 	### Software
+	
 		Editors/IDEs
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sublimetext.com/"><img src="https://souhailhimself.space/dev/img/sublime.png" height="64px" alt="Sublime Text 3"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/"><img src="https://souhailhimself.space/dev/img/vscode.png" height="64px" alt="VS Code"></a>
